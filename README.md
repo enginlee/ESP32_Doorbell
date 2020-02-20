@@ -11,5 +11,8 @@ Demo: https://youtu.be/dKhtFZ9F6cY
 
 Reference:
 	https://revspace.nl/AntiLost
+	
+	https://m5stack.com/products/basic-core-iot-development-kit
+	
 	https://github.com/espressif/esp-idf/blob/master/examples/bluetooth/bluedroid/ble/gatt_client/tutorial/Gatt_Client_Example_Walkthrough.md
 	
